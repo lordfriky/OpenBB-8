@@ -4,6 +4,7 @@ Open source BB-8 project.
 Published under the GNU GPL 3.0 license, you can find more information in the [LICENSE](https://github.com/lordfriky/OpenBB-8/blob/master/LICENSE) file.
 Project in development by:
 - Alain Flores Temblador
+- Carlos Alberto R. de León Quezada
 - Daniel Hernández Muñoz (me, [@lordfriky](https://github.com/lordfriky))
 - Oscar Jesús de la Torre Martínez
 
