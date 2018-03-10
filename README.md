@@ -9,6 +9,6 @@ Project in development by:
 - Oscar Jesús de la Torre Martínez
 
 ## _¿What is this about?_
-OpenBB-8 is a part of the presentation named as *Equilibrio por medio del magnetismo* (balance via magnetism, in spanish) which explains (as his name says) a great use of the magnetism to get things balanced. This project is still on development and will be updated when the time comes.
+OpenBB-8 is a part of the presentation named as *Equilibrio via magnetismo* (balance via magnetism, in spanish) which explains (as his name says) a great use of the magnetism to get things balanced. This project is still on development and will be updated when the time comes.
 ## Thanks
 At this time, no one else but us has been supported the project, so this a placeholder just in case.
