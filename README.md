@@ -24,4 +24,5 @@ To set up the Arduino board you just have to charge the code provided (the .ino 
 - Lic. Benjamín R. de León. For his consulting to the project.
 - Carlos Sánchez and Emilio Gelardo. For [howbb8works.com](https://howbb8works.com/). Their Twitter accounts are [here](https://twitter.com/chocotuits) and [here](https://twitter.com/egpjet3d), respectively.
 - Angelo Casimiro (TechBuilder/ASCAS). For his BB-8 version on which I based a lot. You can find his Instructable [here](http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/).
+- Broncowave. For letting me use his "Bronco Wars" song as a background music for the first app. [Here](https://open.spotify.com/track/7FQt5hgMTuhlvUms06b0oW?si=x3ozh1LBTqei23WEM3TcPQ)'s a Spotify link for his song.
 - Teacher Fernanda Brown. For helping me translate this readme.
