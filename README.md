@@ -14,9 +14,9 @@ OpenBB-8 is a part of the presentation named as *Equilibrio via magnetismo* (bal
 ## _¿How it works?_
 Please stay tuned to the [wiki](https://github.com/lordfriky/OpenBB-8/wiki) updates.
 ## _Do your own_
-The material you need is not too difficult to get. You will need an HC-05 or similar (as HC-06 or even HM-10 to get iOS compatibility) for app comunication, an L293D driver for motor-controlling and the motors. You will find an image of the connections below or using a .fzz file on Fritzing that will be uploaded later.
+The material you need is not too difficult to get. You will need an HC-05 or similar (as HC-06 or even HM-10 to get iOS compatibility) for app comunication, an L293D driver for motor-controlling and the motors. You can find an image of the connections below or using the .fzz file on Fritzing.
 
-![Connections](https://i.imgur.com/38H4Hm3.png)
+![Connections](https://i.imgur.com/QsUUK1H.png)
 
 To set up the Arduino board you just have to charge the code provided (the .ino file) with Arduino IDE before connecting everything else, nothing more. If you don't have it you can get it from the [Arduino page](https://www.arduino.cc/en/Main/Software).
 
