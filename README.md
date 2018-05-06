@@ -24,6 +24,7 @@ For more specific instructions, please reefer to the [wiki](https://github.com/l
 ## _Thanks_
 - **Javier Balán, fsc**. For his big support to the project and for beeing the sweatshirts sponsor. His LinkedIn profile is right [here](https://mx.linkedin.com/in/javierbalan).
 - **Lic. Benjamín R. de León**. For his consulting to the project.
+- **David de León González**. For all the knowledge he gave me all these years.
 - **Carlos Sánchez and Emilio Gelardo**. For [howbb8works.com](https://howbb8works.com/). Their Twitter accounts are [here](https://twitter.com/chocotuits) and [here](https://twitter.com/egpjet3d), respectively.
 - **Angelo Casimiro (TechBuilder/ASCAS)**. For his BB-8 version on which I based a lot. You can find his Instructable [here](http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/).
 - **Broncowave**. For letting me use his "Bronco Wars" song as a background music for the first app. [Here](https://open.spotify.com/track/7FQt5hgMTuhlvUms06b0oW?si=x3ozh1LBTqei23WEM3TcPQ)'s a Spotify link for the song and [here](https://www.facebook.com/broncowave/)'s his Facebook fanpage.
