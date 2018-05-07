@@ -8,7 +8,9 @@ Project in development by:
 - Daniel Hernández Muñoz (me, [@lordfriky](https://github.com/lordfriky))
 - Oscar Jesús de la Torre Martínez
 
-The app will be uploaded to the Google Play Store, please stay tuned ;)
+Our app is now available :)
+
+[![app_button](https://i.imgur.com/EMgv32d.png)](https://play.google.com/store/apps/details?id=appinventor.ai_lord_friky_43.BB8_Controller)
 ## _¿What is this about?_
 OpenBB-8 is a part of the presentation named as *Equilibrio via magnetismo* (balance via magnetism, in spanish) which explains (as his name says) a great use of the magnetism to get things balanced. This project is still on development and will be updated when the time comes.
 ## _¿How it works?_
