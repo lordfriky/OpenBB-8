@@ -2,7 +2,7 @@
 
 Open source BB-8 project.
 Published under the GNU GPL 3.0 license, you can find more information in the [LICENSE](https://github.com/lordfriky/OpenBB-8/blob/master/LICENSE) file.
-Project in development by:
+Project developed by:
 - Alain Flores Temblador
 - Carlos Alberto R. de León Quezada
 - Daniel Hernández Muñoz (me, [@lordfriky](https://github.com/lordfriky))
@@ -33,3 +33,5 @@ For more specific instructions, please reefer to the [wiki](https://github.com/l
 - **Angelo Casimiro (TechBuilder/ASCAS)**. For his BB-8 version on which I based a lot. You can find his Instructable [here](http://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/).
 - **Broncowave**. For letting me use his "Bronco Wars" song as a background music for the first app. [Here](https://open.spotify.com/track/7FQt5hgMTuhlvUms06b0oW?si=x3ozh1LBTqei23WEM3TcPQ)'s a Spotify link for the song and [here](https://www.facebook.com/broncowave/)'s his Facebook fanpage. Google doesn't let me upload this app to Play Store since they cannot verify the permission that Broncowave gave me and I didn't have the time to do something, so you can find it [here](https://drive.google.com/file/d/1vvk3dMcRRRZtObCZGS_xWYPjvbmcSQy9/view?usp=sharing). Both apps can be installed simultaneously.
 - **Teacher Fernanda Brown**. For helping me translate this readme.
+
+BB-8 is property of ©Disney and ©Lucasfilm Ltd.
