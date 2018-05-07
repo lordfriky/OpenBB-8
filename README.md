@@ -12,7 +12,9 @@ Our app is now available :)
 
 [![app_button](https://i.imgur.com/EMgv32d.png)](https://play.google.com/store/apps/details?id=appinventor.ai_lord_friky_43.BB8_Controller)
 ## _¿What is this about?_
-OpenBB-8 is a part of the presentation named as *Equilibrio via magnetismo* (balance via magnetism, in spanish) which explains (as his name says) a great use of the magnetism to get things balanced. This project is still on development and will be updated when the time comes.
+OpenBB-8 is an open source Star Wars BB-8, developed as a part of the presentation named as *Equilibrio via magnetismo* (balance via magnetism, in spanish) which explains (as his name says) a great use of the magnetism to get things balanced. The idea was to create a project to introduce kids into science (most specifically physics), generate on them a futurist idea and encourage them to work for it.
+
+Other than that, it was something that we want to make beacuse we are Star Wars fans and BB-8 seemed like a fun project to make ¯\\_(ツ)_/¯
 ## _¿How it works?_
 Please stay tuned to the [wiki](https://github.com/lordfriky/OpenBB-8/wiki) updates.
 ## _Do your own_
