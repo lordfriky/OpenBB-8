@@ -13,7 +13,7 @@
 */
 
 char dataIn='S';      // Declaration of bluetooth variables
-char determinant;     // We just need one, but TechBuilder made it like this
+char determinant;
 char det;
 
 int vel = 250;        // Initial speed
@@ -125,8 +125,8 @@ void loop(){
   }
 }
 
-int check(){                  // Bluetooth read function (not really needed, btw...)
-  if (Serial.available() > 0){// I'm just following the TechBuilder code
+int check(){                  // Bluetooth read function
+  if (Serial.available() > 0){
     dataIn = Serial.read(); 
     
     //-------- DIRECTION --------//
@@ -172,5 +172,5 @@ int check(){                  // Bluetooth read function (not really needed, btw
       vel = 86;               // Min Speed
     }
   }
-  return determinant;         // Set check() value as  determinant
+  return determinant;         // Set check() value as determinant
 }
